@@ -3,7 +3,7 @@
     font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 img{
-    margin: 60px 0 0 95px;
+    margin: 60px 0 0 90px;
 }
 .container a{
     text-decoration:none;
@@ -12,7 +12,7 @@ img{
     border-radius: 50px;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 15px;
-    margin-left: 95px;
+    margin-left: 90px;
     position: relative;
     top:80px;    
 }
@@ -20,22 +20,22 @@ h1{
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
     font-family: 'Big Shoulders Display', cursive;
-    margin:20px 0 0 95px;
+    margin:20px 0 0 90px;
     font-size: 40px;
     letter-spacing: 1px;
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
-    padding: 15px 95px;
+    padding: 50px 90px;
     font-size: 15px;
 
 }
 .container{
     display: flex;
     width: 70%;
-    height: 500px;
-    margin-top: 200px;
+    height: 600px;
+    margin-top: 150px;
     margin-left: 250px;
     }
 .sedan{
